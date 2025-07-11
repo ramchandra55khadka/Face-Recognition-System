@@ -1,0 +1,27 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Database file
+voting.db
+
+# Image directories
+registered_images/
+thumbnails/
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.bmp
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
